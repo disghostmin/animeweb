@@ -1,0 +1,25 @@
+.rodape {
+    background-color: #201E6A;
+    color: #fff;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.topo {
+    min-height: 100px;
+    background-color: #201E6A;
+    align-items: center;
+    margin-bottom: 8vh;
+
+}
+
+.topo h1 {
+    padding-top: 35px;
+    color: white;
+    text-align: center;
+}
